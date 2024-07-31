@@ -1,0 +1,9 @@
+streamlit
+pandas
+langchain
+langchain_google_genai
+google-generativeai
+faiss-cpu
+Pillow
+python-dotenv
+langchain_community
